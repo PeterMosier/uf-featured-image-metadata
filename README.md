@@ -1,4 +1,4 @@
-# UF Featured Image metadata :: Custom Plugin for Wordpress
+# UF Featured Image metadata :: Custom Plugin for Wordpress (PHP)
 
 Automatically injects **Title, Caption, and Description** from the **Media Library** into the featured image tag on single post pages. Created for https://untamedframes.ca photo site.
 
