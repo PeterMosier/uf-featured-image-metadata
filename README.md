@@ -11,9 +11,17 @@ The data injection make the data availble to view in the LITY lightbox zoomed im
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Installation: How To Upload this Custom Plugin to Wordpress
+This is a Wordpress custom plugin (PHP).
 
+Reminder: The plugin name and version are stored in the header of the .PHP file, so the file names below are merely suggestions to keep things tidy.
 
+Reminder: If using **Wordpress Bitnami Multisite** you can only add plugins from **Network Admin**
+
+1. Copy the `untamed-search-no-cache.php` file to a new folder on your computer. A good (but not mandatory) folder name is `untamed-search-no-cache`
+2. Zip up that folder. A good (but not mandatory) name for the zip is `untamed-search-no-cache-v10.zip`
+3. In Wordpress Plugins page: **Add Plugin** > **Upload Plugin** > **Choose File**
+4. Activate the Plugin. If using Multisite, you can either **Network Activate** for all sites, or enable individually on a particular site's Plugin page.
 
 ---
 
